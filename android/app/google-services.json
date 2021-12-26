@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "984883260846",
+    "project_id": "final-project-c76c7",
+    "storage_bucket": "final-project-c76c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984883260846:android:90b264f6d62efd3c5fec3f",
+        "android_client_info": {
+          "package_name": "com.example.nadlannow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984883260846-8l84062jarlrhui5b0v6fptlobit0vi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXf3wVRiEGsuA3N5a16WrM8VLXx_haEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984883260846-8l84062jarlrhui5b0v6fptlobit0vi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984883260846:android:6310c5f2882a2a695fec3f",
+        "android_client_info": {
+          "package_name": "com.nadlannow.nadlannow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984883260846-8l84062jarlrhui5b0v6fptlobit0vi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXf3wVRiEGsuA3N5a16WrM8VLXx_haEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984883260846-8l84062jarlrhui5b0v6fptlobit0vi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
