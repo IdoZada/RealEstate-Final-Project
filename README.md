@@ -1,16 +1,22 @@
-# final_project2
+# Real Estate Final Project
 
-A new Flutter project.
+A smart system, which allows without the need for a real estate professional, analyze which parameters affect the price of the property, and present to the investor which properties with investment potential are worthwhile for him, by region and price.
 
-## Getting Started
+There are several tabs on the site:
 
-This project is a starting point for a Flutter application.
+## Demo
 
-A few resources to get you started if this is your first Flutter project:
+!(https://user-images.githubusercontent.com/48810056/147418832-85821a2a-99dd-45f9-a6c1-9579871a7534.mp4)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies:
+
+### Backend side
+* Firebase
+* Auth
+* Firestore
+* Storage
+
+
+### Frontend side
+* Flutter/Dart
