@@ -6,7 +6,7 @@ There are several tabs on the site:
 
 ## Demo
 
-!(https://user-images.githubusercontent.com/48810056/147418832-85821a2a-99dd-45f9-a6c1-9579871a7534.mp4)
+https://user-images.githubusercontent.com/48810056/147418832-85821a2a-99dd-45f9-a6c1-9579871a7534.mp4
 
 
 ## Technologies:
